@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: mylatest.azurecr.io/rajcocvs/mypythondockerrepo
+        image: handsonacr001.azurecr.io/jagdhish7418/azdockerrepo
 
         ports:
         - containerPort: 5000
